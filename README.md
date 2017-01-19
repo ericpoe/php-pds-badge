@@ -1,10 +1,10 @@
-### Badge all the things
+# Badge all the things
 
 ## Skeleton
 
 Does your app/library complies with the Standard PHP package skeleton? Show it!
 
-# Green
+### Green
 
 [![PDS Skeleton](https://cdn.rawgit.com/odan/php-pds-badge/1a34df14/pds-skeleton.svg)](https://github.com/php-pds/skeleton)
 
@@ -12,11 +12,10 @@ Does your app/library complies with the Standard PHP package skeleton? Show it!
 [![PDS Sekeleton](https://cdn.rawgit.com/odan/php-pds-badge/1a34df14/pds-skeleton.svg)](https://github.com/php-pds/skeleton)
 ```
 
-# Blue
+### Blue
 
 [![PDS Skeleton](https://cdn.rawgit.com/odan/php-pds-badge/1a34df14/pds-skeleton-blue.svg)](https://github.com/php-pds/skeleton)
 
 ```
 [![PDS Sekeleton](https://cdn.rawgit.com/odan/php-pds-badge/1a34df14/pds-skeleton-blue.svg)](https://github.com/php-pds/skeleton)
 ```
-
