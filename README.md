@@ -2,7 +2,7 @@
 
 ## Skeleton
 
-Does your app/library complies with the Standard PHP package skeleton? Show it!
+Does your app/library comply with the Standard PHP package skeleton? Show it!
 
 ### Green
 
